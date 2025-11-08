@@ -1,70 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Créer un composant Compteur simple avec useState
+<img width="1366" height="728" alt="Application React - Google Chrome 08_11_2025 16_35_58" src="https://github.com/user-attachments/assets/d4cc2b5f-1aea-4f30-93c0-5ed4df84263a" />
+## Créer un composant MessageBouton avec événement onClick
+<img width="1366" height="728" alt="Application React - Google Chrome 08_11_2025 16_37_24" src="https://github.com/user-attachments/assets/b29b0115-206c-4eef-a5fd-3163e7309fa7" />
+## Créer un formulaire contrôlé
+<img width="1366" height="728" alt="Application React - Google Chrome 08_11_2025 16_44_45" src="https://github.com/user-attachments/assets/d46a0a96-a606-4ab5-9d78-0f8dacb7cc4e" />
+## Exercice 1 : Affichage dynamique
+<img width="1366" height="728" alt="Application React - Google Chrome 08_11_2025 23_15_54" src="https://github.com/user-attachments/assets/0fb42c02-407d-444e-a93d-0ad0cbdf8596" />
+## Exercice 2 : Formulaire d’inscription
+<img width="1366" height="728" alt="Application React - Google Chrome 08_11_2025 23_18_53" src="https://github.com/user-attachments/assets/5277fe80-feb2-4793-90b9-c9c27b5b9809" />
+## Exercice 3 : Compteur avec effet personnalisé
+<img width="1366" height="728" alt="Clics _ 3 - Google Chrome 08_11_2025 23_30_30" src="https://github.com/user-attachments/assets/37e50c78-a107-4f83-bb2e-7247c13cc7cd" />
